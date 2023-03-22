@@ -108,8 +108,6 @@ Clone this repository to your desired folder:
 
 Install this project with this command:
 
-`$ npm install`
-
 ### Usage
 
 To run the project, execute the following command by opening the vscode with the command `code .`
@@ -173,7 +171,7 @@ I would like to thank Microverse for setting up this project for student
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
